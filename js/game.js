@@ -105,4 +105,4 @@ function drawGame() {
 }
 
 // Создаем функцию интервал игры
-let game = setInterval(drawGame, 80);
+let game = setInterval(drawGame, 60);
