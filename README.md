@@ -2,7 +2,7 @@
 
 Game written in pure JavaScript. Functions and methods used to create game in 2G format.  
 
-:snake: **[LIVE DEMO](https://vikingrag.github.io/game-fly-bird-js/)**
+:snake: **[LIVE DEMO](https://vikingrag.github.io/game-snake-js/)**
 
 ![snake](https://user-images.githubusercontent.com/100153634/200189857-02a9a286-1b7f-44c6-bcf3-6cbe8e2c52b6.gif)
 
